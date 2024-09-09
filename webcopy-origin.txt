@@ -1,0 +1,3352 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\ajax\libs\bootstrap-icons\1.10.5\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/fonts/bootstrap-icons.woff2?1fa40e8900654d2863d011707b9fb6f2
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\ajax\libs\bootstrap-icons\1.10.5\font\fonts\bootstrap-icons.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/fonts/bootstrap-icons.woff?1fa40e8900654d2863d011707b9fb6f2
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\ajax\libs\bootstrap-icons\1.10.5\font\fonts\bootstrap-icons.woff
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/elmessiri/v22/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUufK5g.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\elmessiri\v22\K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUufK5g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/elmessiri/v22/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUXfK5g.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\elmessiri\v22\K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUXfK5g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/elmessiri/v22/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXCe65g.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\elmessiri\v22\K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXCe65g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/elmessiri/v22/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXwe65g.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\elmessiri\v22\K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXwe65g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1C4E.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyC4E.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0C4E.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://iteck-html.themescamp.com/assets/css/lib/all.min.css
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\css\lib\all.min.css
+Content Type: text/css
+
+Uri: https://iteck-html.themescamp.com/assets/css/lib/animate.css
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\css\lib\animate.css
+Content Type: text/css
+
+Uri: https://iteck-html.themescamp.com/assets/css/lib/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\css\lib\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://iteck-html.themescamp.com/assets/css/lib/bootstrap.rtl.min.css
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\css\lib\bootstrap.rtl.min.css
+Content Type: text/css
+
+Uri: https://iteck-html.themescamp.com/assets/css/lib/jquery-ui.min.css
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\css\lib\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://iteck-html.themescamp.com/assets/css/lib/jquery.fancybox.css
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\css\lib\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://iteck-html.themescamp.com/assets/css/lib/lity.css
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\css\lib\lity.css
+Content Type: text/css
+
+Uri: https://iteck-html.themescamp.com/assets/css/lib/swiper.min.css
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\css\lib\swiper.min.css
+Content Type: text/css
+
+Uri: https://iteck-html.themescamp.com/assets/css/rtl_style.css
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\css\rtl_style.css
+Content Type: text/css
+
+Uri: https://iteck-html.themescamp.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-duotone-900.eot
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-duotone-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-duotone-900.eot?
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-duotone-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-duotone-900.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-duotone-900.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-duotone-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-duotone-900.woff
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-duotone-900.woff
+Content Type: application/font-woff
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-duotone-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-light-300.eot
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-light-300.eot?
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-light-300.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-light-300.ttf
+Content Type: application/octet-stream
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-light-300.woff
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-light-300.woff
+Content Type: application/font-woff
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-light-300.woff2
+Content Type: application/font-woff2
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://iteck-html.themescamp.com/assets/fonts/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\fonts\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://iteck-html.themescamp.com/assets/img/0011.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\0011.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/404_1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\404_1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/404_bg.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\404_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/2mobiles.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\2mobiles.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/3d_vector2.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\3d_vector2.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about10_pattern.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about10_pattern.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about2_1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about2_1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about2_2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about2_2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about2_3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about2_3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about2_pattern_l.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about2_pattern_l.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about2_pattern_r.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about2_pattern_r.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about7.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about7.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about7_chart.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about7_chart.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about7_lines.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about7_lines.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about9.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about9.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_10_1.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_10_1.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_10_2.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_10_2.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_10_3.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_10_3.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_14_1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_14_1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_15_img.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_15_img.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_logos/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_logos\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_logos/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_logos\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_logos/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_logos\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_logos/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_logos\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_logos/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_logos\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s4_bubble.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s4_bubble.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s4_bubble2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s4_bubble2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s4_img3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s4_img3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s4_lines.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s4_lines.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s4_wave.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s4_wave.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s5_1_1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s5_1_1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s5_1_2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s5_1_2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s5_1_3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s5_1_3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s5_1_4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s5_1_4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s5_1_5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s5_1_5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s5_2_1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s5_2_1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s5_2_2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s5_2_2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s5_3_1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s5_3_1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s5_3_2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s5_3_2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s5_3_3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s5_3_3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s5_3_4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s5_3_4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s5_3_5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s5_3_5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/about_s6_bubbles.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\about_s6_bubbles.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/cl1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\cl1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/cl2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\cl2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/cl3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\cl3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/icon3.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/intg1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\intg1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/intg2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\intg2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/intg3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\intg3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/intg4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\intg4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/intg5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\intg5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/intg_back.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\intg_back.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/ipad.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\ipad.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/logo1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\logo1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/logo2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\logo2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/logo3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\logo3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/num_shap.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\num_shap.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/owners.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\owners.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/signature.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\signature.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/style_3_1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\style_3_1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/style_3_2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\style_3_2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/about/superman_3d.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\about\superman_3d.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/banner_back1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\banner_back1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/1.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\1.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/10.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\10.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/11.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\11.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/12.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\12.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/13.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\13.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/14.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\14.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/15.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\15.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/16.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\16.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/17.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\17.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/18.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\18.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/18.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\18.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/19.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\19.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/2.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\2.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/20.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\20.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/21.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\21.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/22.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\22.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/23.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\23.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/24.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\24.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/25.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\25.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/26.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\26.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/3.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\3.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/4.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\4.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/9.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\9.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/s_blog.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\s_blog.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/blog/v_lines.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\blog\v_lines.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/careers/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\careers\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/careers/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\careers\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/careers/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\careers\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/careers/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\careers\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/careers/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\careers\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/careers/6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\careers\6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/careers/7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\careers\7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/careers/8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\careers\8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/careers/map.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\careers\map.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/chat_back9_icons.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\chat_back9_icons.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/1.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\1.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/2.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\2.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/3.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\3.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/3d_vector1.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\3d_vector1.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/choose7.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\choose7.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/choose7_circe.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\choose7_circe.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/choose9.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\choose9.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/choose_brands.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\choose_brands.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/choose_bubbles.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\choose_bubbles.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/choose_lines.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\choose_lines.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/circles.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\circles.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/icon1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\icon1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/icon2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\icon2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/icon3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\icon3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/choose_us/man_arrow.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\choose_us\man_arrow.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/1.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\1.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/10.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\10.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/11.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\11.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/12.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\12.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/13.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\13.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/14.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\14.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/15.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\15.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/16.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\16.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/2.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\2.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/3.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\3.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/4.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\4.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/5.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\5.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/6.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\6.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/7.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\7.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/8.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\8.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/collections/9.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\collections\9.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/comming_back1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\comming_back1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/comming_chat_shape.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\comming_chat_shape.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/comming_light_shape.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\comming_light_shape.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/comming_man_shape.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\comming_man_shape.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/contact_14_back.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\contact_14_back.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/contact_globe.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\contact_globe.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/fav.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\fav.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/feat_11_pattern.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\feat_11_pattern.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/feat_15_back.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\feat_15_back.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/feat_9_img.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\feat_9_img.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/feat_circle.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\feat_circle.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/footer/footer_10_pattern.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\footer\footer_10_pattern.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/footer/footer_4_wave.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\footer\footer_4_wave.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/footer/foot_14_pattern.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\footer\foot_14_pattern.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/footer/foot_l.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\footer\foot_l.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/footer/foot_r.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\footer\foot_r.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/foot_15_down1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\foot_15_down1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/foot_15_down2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\foot_15_down2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/foot_7_pattern.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\foot_7_pattern.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/form_bg12.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\form_bg12.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/global2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\global2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/3d_vector_head8.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\3d_vector_head8.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/hand_megaphone.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\hand_megaphone.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head3_arrow.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head3_arrow.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head5_line.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head5_line.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head5_pen.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head5_pen.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head6_rating.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head6_rating.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head7_bg.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head7_bg.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head7_rock.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head7_rock.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head9_back.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head9_back.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header10_img.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header10_img.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header5_handl.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header5_handl.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header5_handr.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header5_handr.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header5_linechart.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header5_linechart.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header5_page.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header5_page.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header5_piechart.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header5_piechart.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header8_pattern.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header8_pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header9.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header9.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_11.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_11.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_11_img.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_11_img.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_12_1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_12_1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_12_2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_12_2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_12_3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_12_3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_12_linearrow.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_12_linearrow.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_14_back.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_14_back.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_14_img.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_14_img.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_3_c.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_3_c.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_4_bubble.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_4_bubble.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/header_4_wave.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\header_4_wave.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head_13_hero.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head_13_hero.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head_14_btn_android.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head_14_btn_android.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head_14_btn_apple.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head_14_btn_apple.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head_15_back.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head_15_back.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head_15_img.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head_15_img.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head_15_pattern.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head_15_pattern.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head_img7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head_img7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head_shape_l.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head_shape_l.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/head_shape_r.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\head_shape_r.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/hero16_2.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\hero16_2.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/info_h1_line.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\info_h1_line.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/info_h1_line1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\info_h1_line1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/logo_sh_l.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\logo_sh_l.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/rocket.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\rocket.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/header/target_3d.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\header\target_3d.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/24hour.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\24hour.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/4dots.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\4dots.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/4dots_light.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\4dots_light.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ab9_1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ab9_1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ab9_2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ab9_2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ab_13_1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ab_13_1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ab_13_2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ab_13_2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ab_13_3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ab_13_3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/blog_15_icon.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\blog_15_icon.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/cart_light.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\cart_light.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ch1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ch1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ch10.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ch10.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ch10.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ch10.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ch11.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ch11.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ch12.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ch12.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ch2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ch2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ch3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ch3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ch4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ch4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ch5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ch5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ch6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ch6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ch7.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ch7.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ch8.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ch8.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/ch9.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\ch9.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/chrome_icon.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\chrome_icon.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/code3d.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\code3d.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/contact_a.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\contact_a.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/contact_message.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\contact_message.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/dollar.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\dollar.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/faq_15_icon.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\faq_15_icon.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/fe1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\fe1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/fe2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\fe2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/fe3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\fe3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/fe4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\fe4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/fe5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\fe5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/10.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\10.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/11.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\11.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/12.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\12.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/13.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\13.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/14.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\14.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/15.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\15.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/16.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\16.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/17.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\17.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/18.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\18.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/19.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\19.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/20.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\20.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/21.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\21.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/22.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\22.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/23.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\23.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/24.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\24.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/25.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\25.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/26.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\26.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/27.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\27.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/28.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\28.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/29.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\29.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/30.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\30.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/features/9.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\features\9.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/home_15_icon.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\home_15_icon.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/line_chart.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\line_chart.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/mail3d.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\mail3d.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/map3d.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\map3d.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/message3d.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\message3d.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/msg3d.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\msg3d.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/nav_icon/active_s4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\nav_icon\active_s4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/nav_icon/imoj_heart.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\nav_icon\imoj_heart.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/nav_icon/price.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\nav_icon\price.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/10.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\10.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/11.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\11.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/9.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\9.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/num1.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\num1.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/num2.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\num2.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/num3.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\num3.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/numbers/num4.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\numbers\num4.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/pay1.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\pay1.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/pay2.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\pay2.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/pay3.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\pay3.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/pay4.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\pay4.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/pay5.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\pay5.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/payment/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\payment\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/payment/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\payment\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/payment/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\payment\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/payment/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\payment\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/payment/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\payment\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/payment/6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\payment\6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/pr1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\pr1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/pr2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\pr2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/pr3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\pr3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/price3d.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\price3d.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/price_s4_1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\price_s4_1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/price_s4_2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\price_s4_2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/price_s5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\price_s5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/protect.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\protect.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/prt1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\prt1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/prt2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\prt2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/qout8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\qout8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/rocket.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\rocket.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/10.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\10.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/11.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\11.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/12.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\12.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/13.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\13.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/14.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\14.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/15.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\15.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/16.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\16.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/17.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\17.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/18.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\18.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/19.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\19.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/20.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\20.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/21.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\21.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/22.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\22.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/23.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\23.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/24.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\24.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/25.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\25.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/26.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\26.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/27.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\27.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/28.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\28.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/29.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\29.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/30.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\30.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/31.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\31.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/32.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\32.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/33.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\33.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/34.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\34.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/35.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\35.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/36.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\36.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/37.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\37.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/38.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\38.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/39.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\39.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/40.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\40.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/41.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\41.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/42.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\42.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/serv_icons/9.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\serv_icons\9.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/social/line.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\social\line.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/social/massenger.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\social\massenger.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/social/skype.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\social\skype.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/social/twitter.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\social\twitter.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/social/wechat.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\social\wechat.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/social/whatsapp.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\social\whatsapp.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/solution/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\solution\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/solution/10.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\solution\10.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/solution/11.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\solution\11.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/solution/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\solution\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/solution/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\solution\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/solution/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\solution\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/solution/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\solution\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/solution/6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\solution\6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/solution/7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\solution\7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/solution/8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\solution\8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/solution/9.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\solution\9.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/star1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\star1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/star2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\star2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/star3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\star3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/testi_s14_ic1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\testi_s14_ic1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/testi_s14_ic2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\testi_s14_ic2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/testi_s14_ic3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\testi_s14_ic3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/testi_s14_ic4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\testi_s14_ic4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/testi_s4_ic1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\testi_s4_ic1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/testi_s4_ic2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\testi_s4_ic2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/tl1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\tl1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/tl2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\tl2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/tl3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\tl3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/tl4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\tl4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/toggle_dot.svg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\toggle_dot.svg
+Content Type: image/svg+xml
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/user.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\user.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/users.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\users.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/icons/user_light.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\icons\user_light.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/inner5_back.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\inner5_back.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/10.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\10.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/11.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\11.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/12.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\12.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/13.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\13.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/14.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\14.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/15.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\15.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/16.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\16.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ/9.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ\9.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/integ_11_pattern.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\integ_11_pattern.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/lang.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\lang.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/line_l.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\line_l.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/line_r.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\line_r.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/login/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\login\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/login/2.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\login\2.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/login/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\login\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/10.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\10.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/11.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\11.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/12.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\12.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/13.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\13.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/14.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\14.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/15.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\15.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/16.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\16.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/17.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\17.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/18.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\18.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/19.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\19.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/20.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\20.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/21.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\21.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/22.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\22.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/23.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\23.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/24.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\24.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/25.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\25.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/26.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\26.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/27.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\27.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/28.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\28.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/29.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\29.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/30.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\30.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/31.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\31.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/32.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\32.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/33.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\33.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/34.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\34.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/35.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\35.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/36.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\36.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/37.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\37.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/38.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\38.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/39.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\39.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/40.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\40.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/41.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\41.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/42.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\42.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/43.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\43.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/44.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\44.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/45.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\45.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/46.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\46.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/47.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\47.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/48.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\48.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/49.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\49.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/50.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\50.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/51.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\51.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/52.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\52.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/53.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\53.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logos/9.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logos\9.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_10.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_10.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_11.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_11.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_11_icon.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_11_icon.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_12.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_12.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_13.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_13.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_14.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_14.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_15.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_15.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_9.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_9.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_b2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_b2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_cd.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_cd.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_cl.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_cl.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_foot_home5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_foot_home5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_home5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_home5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_home6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_home6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_home8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_home8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_home8_icon.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_home8_icon.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_lgr.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_lgr.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_ll.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_ll.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/logo_loading.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\logo_loading.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/mob1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\mob1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/num8_circle.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\num8_circle.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/num_back.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\num_back.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/pattern_signUp.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\pattern_signUp.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/pricing/label_success.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\pricing\label_success.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/pricing/money.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\pricing\money.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/pricing/off.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\pricing\off.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/pricing/shap_l.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\pricing\shap_l.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/pricing/shap_r.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\pricing\shap_r.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/11.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\11.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/11.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\11.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/12.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\12.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/13.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\13.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/14.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\14.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/9.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\9.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/nf1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\nf1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/nf2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\nf2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/nf3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\nf3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/nf4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\nf4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/nf5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\nf5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/nf6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\nf6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/nf7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\nf7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/nf8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\nf8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/prog/1.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\prog\1.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/prog/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\prog\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/prog/3.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\prog\3.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/prog/shap_l.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\prog\shap_l.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/prog/shap_r.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\prog\shap_r.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/projects/project_13_pattern.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\projects\project_13_pattern.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/review/rev_l.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\review\rev_l.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/review/rev_r.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\review\rev_r.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/screenshots/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\screenshots\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/screenshots/10.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\screenshots\10.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/screenshots/11.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\screenshots\11.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/screenshots/12.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\screenshots\12.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/screenshots/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\screenshots\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/screenshots/3.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\screenshots\3.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/screenshots/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\screenshots\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/screenshots/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\screenshots\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/screenshots/6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\screenshots\6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/screenshots/7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\screenshots\7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/screenshots/8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\screenshots\8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/screenshots/9.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\screenshots\9.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/screenshots/hand.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\screenshots\hand.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/section_head/title_shap1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\section_head\title_shap1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/section_head/title_shap2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\section_head\title_shap2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/services/feat14_img1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\services\feat14_img1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/services/pattern1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\services\pattern1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/services/serv8_back.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\services\serv8_back.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/services/services2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\services\services2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/services/ser_shap_l.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\services\ser_shap_l.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/services/ser_shap_r.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\services\ser_shap_r.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/services_work.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\services_work.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/ser_wh_line.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\ser_wh_line.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shap_color_7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shap_color_7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shap_style_6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shap_style_6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/10.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\10.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/11.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\11.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/12.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\12.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/9.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\9.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/pr1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\pr1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/pr2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\pr2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/pr4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\pr4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/shop/products/pr5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\shop\products\pr5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/single_project/2mobs.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\single_project\2mobs.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/single_project/bubbls.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\single_project\bubbls.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/single_project/ch_1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\single_project\ch_1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/single_project/ch_2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\single_project\ch_2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/single_project/circle.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\single_project\circle.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/subs_arrow.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\subs_arrow.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/1.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\1.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/10.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\10.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/11.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\11.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/2.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\2.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/3.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\3.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/4.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\4.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/5.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\5.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/5.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\5.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/6.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\6.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/7.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\7.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/8.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\8.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/9.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\9.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/team/team_shap.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\team\team_shap.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/1.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\1.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/banner7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\banner7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/bubbls.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\bubbls.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/logo1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\logo1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/qout.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\qout.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/testi.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\testi.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/testi3_lines.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\testi3_lines.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/testi7_back.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\testi7_back.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/testi7_qout.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\testi7_qout.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/testi9_back.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\testi9_back.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/testi_13_icon.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\testi_13_icon.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/trust_logo.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\trust_logo.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/trust_star.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\trust_star.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/user1.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\user1.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/user2.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\user2.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/user3.jpeg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\user3.jpeg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/user4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\user4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/user5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\user5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/user6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\user6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/user7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\user7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/user8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\user8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/user9.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\user9.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/testimonials/users_6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\testimonials\users_6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/top_nav_s4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\top_nav_s4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/vector1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\vector1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/vector2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\vector2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/vid_banner5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\vid_banner5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/img/work_bg.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\img\work_bg.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/assets/js/lib/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\lib\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/assets/js/lib/jquery-3.0.0.min.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\lib\jquery-3.0.0.min.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/assets/js/lib/jquery-migrate-3.0.0.min.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\lib\jquery-migrate-3.0.0.min.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/assets/js/lib/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\lib\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/assets/js/lib/jquery.counterup.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\lib\jquery.counterup.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/assets/js/lib/jquery.fancybox.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\lib\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/assets/js/lib/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\lib\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/assets/js/lib/lity.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\lib\lity.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/assets/js/lib/mixitup.min.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\lib\mixitup.min.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/assets/js/lib/scrollIt.min.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\lib\scrollIt.min.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/assets/js/lib/slider-mob-touch.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\lib\slider-mob-touch.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/assets/js/lib/swiper.min.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\lib\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/assets/js/lib/wow.min.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\lib\wow.min.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/assets/js/main.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/home-app-landing-onePage.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-app-landing-onePage.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-app-landing.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-app-landing.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-cloud-hosting.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-cloud-hosting.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-crypto.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-crypto.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-cyber-security.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-cyber-security.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-data-analysis.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-data-analysis.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-digital-agency-onePage.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-digital-agency-onePage.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-digital-agency.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-digital-agency.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-freelance-personal.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-freelance-personal.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-help-desk.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-help-desk.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-it-solutions-onePage.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-it-solutions-onePage.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-it-solutions.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-it-solutions.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-it-solutions2.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-it-solutions2.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-marketing-startup-onePage.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-marketing-startup-onePage.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-marketing-startup.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-marketing-startup.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-nft-marketplace.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-nft-marketplace.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-payment-solutions.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-payment-solutions.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-saas-technology-onePage.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-saas-technology-onePage.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-saas-technology.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-saas-technology.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-shop-modern.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-shop-modern.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/home-software-company.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\home-software-company.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/index.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\index.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/landing-preview/css/preview-style.css
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\css\preview-style.css
+Content Type: text/css
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/b1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\b1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/b2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\b2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/b3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\b3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/circle.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\circle.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/0.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\0.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/10.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\10.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/11.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\11.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/12.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\12.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/13.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\13.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/14.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\14.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/15.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\15.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/16.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\16.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/1_1.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\1_1.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/2_2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\2_2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/3_3.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\3_3.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/4_4.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\4_4.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/5_5.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\5_5.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/6_6.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\6_6.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/7.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\7.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/7_7.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\7_7.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/8.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\8.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/8_8.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\8_8.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/9.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\9.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/demos/9_9.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\demos\9_9.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/envato.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\envato.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/1.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\1.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/10.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\10.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/11.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\11.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/12.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\12.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/13.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\13.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/14.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\14.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/2.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\2.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/3.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\3.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/4.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\4.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/5.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\5.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/6.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\6.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/7.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\7.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/8.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\8.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/9.jpg
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\9.jpg
+Content Type: image/jpeg
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/header/mob.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\header\mob.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/404.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\404.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/about.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\about.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/about2.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\about2.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/about_app.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\about_app.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/blog_app_left_sidebar.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\blog_app_left_sidebar.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/blog_left_sidebar.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\blog_left_sidebar.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/career.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\career.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/career_details.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\career_details.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/comming_soon.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\comming_soon.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/contact.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\contact.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/faq.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\faq.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/login.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\login.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/projects.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\projects.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/services.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\services.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/services_app.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\services_app.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/services_details.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\services_details.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/single_post_right_sidebar.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\single_post_right_sidebar.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/inner_pages/single_project.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\inner_pages\single_project.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/pattern.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\pattern.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/img/quotes.png
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\img\quotes.png
+Content Type: image/png
+
+Uri: https://iteck-html.themescamp.com/landing-preview/js/countdown.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\js\countdown.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/landing-preview/js/demo.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\js\demo.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/landing-preview/js/parallax.min.js
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\landing-preview\js\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://iteck-html.themescamp.com/page-404.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-404.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-about-2.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-about-2.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-about-5.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-about-5.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-about-app.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-about-app.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-blog-5-left-sidebar.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-blog-5-left-sidebar.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-blog-5-wide.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-blog-5-wide.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-blog-5.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-blog-5.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-blog-app-left-sidebar.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-blog-app-left-sidebar.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-blog-app-wide.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-blog-app-wide.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-blog-app.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-blog-app.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-career-details.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-career-details.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-careers-5.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-careers-5.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-comming-soon-5.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-comming-soon-5.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-contact-5.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-contact-5.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-contact-app.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-contact-app.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-faq-5.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-faq-5.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-portfolio-5.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-portfolio-5.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-portfolio-app.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-portfolio-app.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-product-5.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-product-5.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-product-app.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-product-app.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-services-5.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-services-5.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-services-app.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-services-app.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-services-details-5.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-services-details-5.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-shop-5.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-shop-5.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-shop-app.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-shop-app.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-sign-in.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-sign-in.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-single-post-5-left-sidebar.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-single-post-5-left-sidebar.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-single-post-5-wide.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-single-post-5-wide.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-single-post-5.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-single-post-5.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-single-post-app-left-sidebar.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-single-post-app-left-sidebar.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-single-post-app-wide.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-single-post-app-wide.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-single-post-app.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-single-post-app.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-single-project-5.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-single-project-5.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/page-single-project-app.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\page-single-project-app.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/rtl-home-app-landing-onePage.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\rtl-home-app-landing-onePage.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/rtl-home-marketing-startup-onePage.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\rtl-home-marketing-startup-onePage.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/rtl-home-marketing-startup.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\rtl-home-marketing-startup.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/rtl-home-software-company.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\rtl-home-software-company.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/rtl-page-about.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\rtl-page-about.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/rtl-page-blog.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\rtl-page-blog.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/rtl-page-contact.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\rtl-page-contact.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/rtl-page-portfolio.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\rtl-page-portfolio.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/rtl-page-product.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\rtl-page-product.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/rtl-page-services.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\rtl-page-services.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/rtl-page-shop.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\rtl-page-shop.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/rtl-page-single-post.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\rtl-page-single-post.html
+Content Type: text/html
+
+Uri: https://iteck-html.themescamp.com/rtl-page-single-project.html
+File Name: C:\Downloaded Web Sites\iteck-html.themescamp.com\rtl-page-single-project.html
+Content Type: text/html
+
